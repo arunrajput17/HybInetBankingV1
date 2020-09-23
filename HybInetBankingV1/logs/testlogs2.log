@@ -1,0 +1,116 @@
+[INFO ] 2020-09-21 09:51:57.185 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-21 09:52:09.343 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-21 09:52:09.344 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-21 09:52:09.662 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-21 09:52:09.932 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-21 09:52:13.917 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-22 08:13:18.744 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-22 08:13:30.050 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-22 08:13:30.052 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-22 08:13:30.403 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-22 08:13:30.606 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-22 08:13:32.587 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-22 08:14:42.036 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-22 08:14:48.311 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-22 08:14:48.312 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-22 08:14:48.525 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-22 08:14:48.674 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-22 08:14:53.337 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-22 09:37:08.453 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-22 09:37:14.762 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-22 09:37:14.762 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-22 09:37:15.073 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-22 09:37:15.236 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-22 09:37:18.476 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-22 09:38:53.446 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-22 09:39:01.789 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-22 09:39:01.790 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-22 09:39:02.125 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-22 09:39:02.443 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-22 09:39:08.347 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-22 09:40:48.827 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-22 09:41:03.698 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-22 09:41:03.698 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-22 09:41:04.049 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-22 09:41:04.187 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-22 09:41:07.231 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-22 09:46:20.751 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-22 09:46:28.637 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-22 09:46:28.637 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-22 09:46:28.927 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-22 09:46:29.060 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-22 09:46:32.884 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 01:44:04.571 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 01:44:14.805 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 01:44:14.806 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 01:44:15.117 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 01:44:15.269 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 01:44:19.142 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 05:19:46.455 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 05:19:54.511 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 05:19:54.512 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 05:19:54.753 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 05:19:54.894 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 05:19:57.686 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 05:21:39.869 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 05:21:50.765 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 05:21:50.765 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 05:21:51.537 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 05:21:51.843 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 05:21:55.068 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 05:30:59.295 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 05:31:06.181 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 05:31:06.182 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 05:31:06.442 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 05:31:06.580 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 05:31:09.306 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 05:31:58.032 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 05:32:04.923 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 05:32:04.923 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 05:32:05.268 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 05:32:05.571 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 05:32:08.874 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 05:32:51.855 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 05:33:01.213 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 05:33:01.213 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 05:33:01.560 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 05:33:01.753 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 05:33:03.869 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 05:33:32.545 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 05:33:38.231 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 05:33:38.231 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 05:33:38.612 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 05:33:38.777 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 05:33:47.561 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 06:28:21.197 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 06:28:30.516 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 06:28:30.517 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 06:28:30.821 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 06:28:30.971 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 06:28:32.880 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 06:29:42.478 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 06:29:48.288 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 06:29:48.290 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 06:29:48.651 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 06:29:48.939 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 06:29:54.206 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 06:31:28.103 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 06:31:34.661 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 06:31:34.662 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 06:31:34.938 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 06:31:35.078 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 06:31:44.355 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 06:36:14.044 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 06:36:24.072 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 06:36:24.073 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 06:36:24.421 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 06:36:24.584 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 06:36:26.554 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 06:36:31.589 [main] TC_LoginTest_001 - Login Test Passed
+[INFO ] 2020-09-23 06:38:40.235 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 06:38:46.890 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 06:38:46.890 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 06:38:47.267 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 06:38:47.640 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 06:38:49.409 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 06:38:54.439 [main] TC_LoginTest_001 - Login Test Passed

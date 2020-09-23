@@ -1,0 +1,14 @@
+[INFO ] 2020-09-17 02:07:56.541 [main] BaseClass - Chrome opened
+[TRACE] 2020-09-17 02:08:10.136 [main] BaseClass - This is trace message
+[INFO ] 2020-09-17 02:08:10.136 [main] BaseClass - This is an info message of Test method 1
+[DEBUG] 2020-09-17 02:08:10.136 [main] BaseClass - This is a debug message
+[WARN ] 2020-09-17 02:08:10.136 [main] BaseClass - This is a warn message
+[ERROR] 2020-09-17 02:08:10.137 [main] BaseClass - This is an error message
+[FATAL] 2020-09-17 02:08:10.137 [main] BaseClass - This is a fatal message
+[INFO ] 2020-09-17 02:10:26.576 [main] BaseClass - Chrome opened
+[TRACE] 2020-09-17 02:10:37.329 [main] BaseClass - This is trace message
+[INFO ] 2020-09-17 02:10:37.329 [main] BaseClass - This is an info message of Test method 1
+[DEBUG] 2020-09-17 02:10:37.330 [main] BaseClass - This is a debug message
+[WARN ] 2020-09-17 02:10:37.330 [main] BaseClass - This is a warn message
+[ERROR] 2020-09-17 02:10:37.330 [main] BaseClass - This is an error message
+[FATAL] 2020-09-17 02:10:37.331 [main] BaseClass - This is a fatal message
