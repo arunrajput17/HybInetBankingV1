@@ -41,7 +41,7 @@ public class TC_LoginTest_001 extends BaseClass
 		Thread.sleep(5000);
 		
 		
-		if( driver.getTitle().equals("Guru99 Bank Manager HomePage1"))
+		if( driver.getTitle().equals("Guru99 Bank Manager HomePage"))
 		{
 			Assert.assertTrue(true);
 			logger.info("Login Test Passed");
