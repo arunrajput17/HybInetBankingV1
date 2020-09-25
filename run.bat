@@ -1,3 +1,3 @@
 D:
-D:\Day Shift\Selenium Practice\git\HybInetBankingV1\HybInetBankingV1
+D:\Day Shift\Selenium Practice\JEx\First\HybInetBankingV1
 mvn clean install
