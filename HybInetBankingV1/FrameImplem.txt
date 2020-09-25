@@ -1,0 +1,118 @@
+URL : http://demo.guru99.com/
+
+User ID : mngr284797
+Password : gegygyb
+
+
+
+
+STAGES:
+
+Phase 1: Implementation
+------------------------------------
+* Create Maven Project
+* Update pom.xml
+* Create Page Objects
+* Create Basic Tests
+* Add logs to test case
+* Read common values from properties file
+* Run test case on desired browser
+* Add extent report
+* Create Data Driven test case
+* Adding new test case
+
+
+
+Phase 2: Execution
+------------------------------------
+1) Run test cases with Maven pom.xml (complier and surefire plugin are needed for this. In surefire we need to define testng.xml file)
+	(To run right click on POM file or inside file and select Run as--> Maven Test)
+
+2) Run test cases through Maven CLI (Command Line Interface)
+	-- Project Location : D:\Day Shift\Selenium Practice\JEx\First\HybInetBankingV1 
+	-- Navigate to project location in CMD using cd D:\Day Shift\Selenium Practice\JEx\First\HybInetBankingV1
+		(One extra step as my Maven is in D drive first we should move to D using D:
+	- dir will show directory
+	--Then first command mvn clean install to execute
+
+
+3) Run test cases using run.bat
+	-- just add the above steps in run.bat file and add it in project location
+
+4) Run test cases using Jenkins (using bat file)
+	-- download link : https://www.jenkins.io/download/
+	-- Goto : this location  D:\>cd D:\Day Shift\Selenium_Prequisites\apache-tomcat-8.5.47\bin in cmd and write startup.bat and press enter
+	-- Goto: http://localhost:8080/jenkins/ 	uname =admin, password=admin
+	1. Execute project using free style project (run.bat)
+		--NewItem --> Item name (project name) --> Freestyle project --> Build -->  
+		-- provide these commands D:\Day Shift\Selenium Practice\JEx\First\HybInetBankingV1 
+					run.bat
+		--save
+
+
+	2. Execute project using Maven(pom.xml)	--- REal time it is only used
+	   -->Pre-requisite
+		-- Install these plugins:
+			-Maven Integration
+			-Unlease Maven
+			-Maven Release plugin
+			-Maven Invoker
+			-WMI Windows agents
+			-Maven repository scheduled cleanup
+			-Repository connector
+			-Maven info
+			-Maven Repository server
+		
+		-- Then Manage Jenkins--> Global tool configuration --> JDK --> JDK installations
+			- Give name 
+			- Java home = C:\Program Files\Java\jdk1.8.0_101\
+		
+		-- Manage Jenkins--> Global tool configuration --> maven --> Maven installations
+			- Give name like (Maven 3.6.2)
+			- Maven_Home = D:\Day Shift\Selenium_Prequisites\apache-maven-3.6.2		
+
+	--> Steps
+		1) New item --> provide name of the project --> Maven project --> ok
+		2) Go to build section --> specify path of pom.xml (D:\Day Shift\Selenium Practice\JEx\First\HybInetBankingV1)and Goals as ( clean install)
+		3) Go to Dash board --> you can see new item(project) is created		
+
+
+
+
+Phase 3: Maintenance
+------------------------------------
+
+1) Creating repository in GITHUB
+2) Commit the project code in local repository
+3) Push the project code to GITHUB remote repository from local GIT repository
+
+
+Pre Requisities:
+	- Install git in local system
+	- Create an account in GitHUb
+		https://github.com/
+		Remote repository URL: https://github.com/arunrajput17/HybInetBankingV1.git
+
+GIT Commands:
+	- git init --> create an empty git repository (local Repository)	--> first time only
+	- git remote add orgin "https://github.com/arunrajput17/HybInetBankingV1.git"		--> first time only
+	- git status --> what are files ready to commit in git repository
+	- git add -A --> add all the files into staging area
+	- git config --global user.name "arunrajput17"		--> first time only
+	- git config --global user.email "arun.rajput17@gmail.com"		--> first time only
+
+	- git commit -m "this is my first commit"	--> commit all the files into git repository
+
+	- git push -u origin master	--> Ask uou username & password pushing the files from git ------to----> GITHUB
+
+	- git pull origin master 	--> pull the files from github --> git
+------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+

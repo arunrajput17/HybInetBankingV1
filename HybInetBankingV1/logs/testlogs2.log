@@ -114,3 +114,16 @@
 [INFO ] 2020-09-23 06:38:47.640 [main] TC_LoginTest_001 - Entered password
 [INFO ] 2020-09-23 06:38:49.409 [main] TC_LoginTest_001 - Login Button Clicked
 [INFO ] 2020-09-23 06:38:54.439 [main] TC_LoginTest_001 - Login Test Passed
+[INFO ] 2020-09-23 09:40:35.344 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 09:40:43.041 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 09:40:43.041 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 09:40:43.215 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 09:40:43.348 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 09:40:46.266 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 09:51:48.495 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-23 09:51:55.366 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-23 09:51:55.367 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-23 09:51:55.585 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-23 09:51:55.724 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-23 09:52:05.164 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-23 09:52:10.185 [main] TC_LoginTest_001 - Login Test Passed
