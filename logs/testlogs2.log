@@ -148,3 +148,46 @@
 [INFO ] 2020-09-25 06:41:06.279 [main] TC_LoginTest_001 - Entered password
 [INFO ] 2020-09-25 06:41:09.897 [main] TC_LoginTest_001 - Login Button Clicked
 [INFO ] 2020-09-25 06:41:14.924 [main] TC_LoginTest_001 - Login Test Passed
+[INFO ] 2020-09-28 00:50:39.365 [main] TC_LoginTest_001 - Chrome opened
+[INFO ] 2020-09-28 00:50:46.290 [main] TC_LoginTest_001 - loginTest method started executing
+[INFO ] 2020-09-28 00:50:46.291 [main] TC_LoginTest_001 - URL opened
+[INFO ] 2020-09-28 00:50:47.023 [main] TC_LoginTest_001 - Entered Username
+[INFO ] 2020-09-28 00:50:47.293 [main] TC_LoginTest_001 - Entered password
+[INFO ] 2020-09-28 00:50:51.199 [main] TC_LoginTest_001 - Login Button Clicked
+[INFO ] 2020-09-28 00:50:56.210 [main] TC_LoginTest_001 - Login Test Passed
+[INFO ] 2020-09-28 00:51:02.254 [main] TC_LoginDDT_002 - Chrome opened
+[INFO ] 2020-09-28 00:51:13.533 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-09-28 00:51:13.903 [main] TC_LoginDDT_002 - Password provided
+[INFO ] 2020-09-28 00:51:16.296 [main] TC_LoginDDT_002 - Login Button Clicked
+[INFO ] 2020-09-28 00:51:19.441 [main] TC_LoginDDT_002 - Login Passed
+[INFO ] 2020-09-28 00:51:27.335 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-09-28 00:51:27.468 [main] TC_LoginDDT_002 - Password provided
+[INFO ] 2020-09-28 00:51:27.920 [main] TC_LoginDDT_002 - Login Button Clicked
+[WARN ] 2020-09-28 00:51:34.548 [main] TC_LoginDDT_002 - Login failed
+[INFO ] 2020-09-28 00:51:35.081 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-09-28 00:51:35.193 [main] TC_LoginDDT_002 - Password provided
+[INFO ] 2020-09-28 00:51:35.657 [main] TC_LoginDDT_002 - Login Button Clicked
+[WARN ] 2020-09-28 00:51:42.304 [main] TC_LoginDDT_002 - Login failed
+[INFO ] 2020-09-28 00:51:42.749 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-09-28 00:51:42.865 [main] TC_LoginDDT_002 - Password provided
+[INFO ] 2020-09-28 00:51:45.115 [main] TC_LoginDDT_002 - Login Button Clicked
+[INFO ] 2020-09-28 00:51:48.141 [main] TC_LoginDDT_002 - Login Passed
+[INFO ] 2020-09-28 00:51:57.823 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-09-28 00:51:57.995 [main] TC_LoginDDT_002 - Password provided
+[INFO ] 2020-09-28 00:51:58.894 [main] TC_LoginDDT_002 - Login Button Clicked
+[WARN ] 2020-09-28 00:52:10.093 [main] TC_LoginDDT_002 - Login failed
+[INFO ] 2020-09-28 00:52:10.583 [main] TC_LoginDDT_002 - user name provided
+[INFO ] 2020-09-28 00:52:10.752 [main] TC_LoginDDT_002 - Password provided
+[INFO ] 2020-09-28 00:52:11.472 [main] TC_LoginDDT_002 - Login Button Clicked
+[WARN ] 2020-09-28 00:52:16.365 [main] TC_LoginDDT_002 - Login failed
+[INFO ] 2020-09-28 00:52:21.761 [main] TC_AddCustomerTest_003 - Chrome opened
+[INFO ] 2020-09-28 00:52:28.338 [main] TC_AddCustomerTest_003 - User Name is provided
+[INFO ] 2020-09-28 00:52:28.571 [main] TC_AddCustomerTest_003 - Password is provided
+[INFO ] 2020-09-28 00:52:35.477 [main] TC_AddCustomerTest_003 - Providing customer details......
+[INFO ] 2020-09-28 00:52:45.317 [main] TC_AddCustomerTest_003 - Validation started.....
+[INFO ] 2020-09-28 00:54:40.694 [main] TC_AddCustomerTest_003 - Chrome opened
+[INFO ] 2020-09-28 00:54:47.311 [main] TC_AddCustomerTest_003 - User Name is provided
+[INFO ] 2020-09-28 00:54:47.455 [main] TC_AddCustomerTest_003 - Password is provided
+[INFO ] 2020-09-28 00:54:57.340 [main] TC_AddCustomerTest_003 - Providing customer details......
+[INFO ] 2020-09-28 00:55:06.812 [main] TC_AddCustomerTest_003 - Validation started.....
+[INFO ] 2020-09-28 00:55:06.849 [main] TC_AddCustomerTest_003 - Test case is failed

@@ -21,7 +21,6 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
-import com.aventstack.extentreports.Status;
 import com.inetbanking.utilities.ReadConfig;
 
 public class BaseClass {
