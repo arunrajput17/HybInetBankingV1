@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="InetBankingV1 Suite" duration-ms="23823" started-at="2020-09-22T12:14:35Z" finished-at="2020-09-22T12:14:59Z">
+  <suite name="InetBankingV1 Suite" duration-ms="33723" started-at="2020-09-28T04:54:34Z" finished-at="2020-09-28T04:55:08Z">
     <groups>
     </groups>
-    <test name="BankingApp Test Chrome" duration-ms="23823" started-at="2020-09-22T12:14:35Z" finished-at="2020-09-22T12:14:59Z">
-      <class name="com.inetbanking.testCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@32709393]" name="setup" is-config="true" duration-ms="12053" started-at="2020-09-22T12:14:36Z" finished-at="2020-09-22T12:14:48Z">
+    <test name="BankingApp Test Chrome" duration-ms="33723" started-at="2020-09-28T04:54:34Z" finished-at="2020-09-28T04:55:08Z">
+      <class name="com.inetbanking.testCases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@32709393]" name="setup" is-config="true" duration-ms="11960" started-at="2020-09-28T04:54:35Z" finished-at="2020-09-28T04:54:47Z">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@32709393]" name="loginTest" duration-ms="10084" started-at="2020-09-22T12:14:48Z" finished-at="2020-09-22T12:14:58Z">
+        <test-method status="FAIL" signature="addNewCustomer()[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@32709393]" name="addNewCustomer" duration-ms="19789" started-at="2020-09-28T04:54:47Z" finished-at="2020-09-28T04:55:06Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -29,7 +29,7 @@ at org.testng.Assert.fail(Assert.java:96)
 at org.testng.Assert.failNotEquals(Assert.java:776)
 at org.testng.Assert.assertTrue(Assert.java:44)
 at org.testng.Assert.assertTrue(Assert.java:54)
-at com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:52)
+at com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:60)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -60,23 +60,23 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="takeFailScreenshot(org.testng.ITestResult)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@32709393]" name="takeFailScreenshot" is-config="true" duration-ms="424" started-at="2020-09-22T12:14:58Z" finished-at="2020-09-22T12:14:58Z">
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="takeFailScreenshot(org.testng.ITestResult)[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@32709393]" name="takeFailScreenshot" is-config="true" duration-ms="426" started-at="2020-09-28T04:55:06Z" finished-at="2020-09-28T04:55:07Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginTest status=FAILURE method=TC_LoginTest_001.loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@32709393] output={null}]]]>
+                <![CDATA[[TestResult name=addNewCustomer status=FAILURE method=TC_AddCustomerTest_003.addNewCustomer()[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@32709393] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeFailScreenshot -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@32709393]" name="tearDown" is-config="true" duration-ms="814" started-at="2020-09-22T12:14:58Z" finished-at="2020-09-22T12:14:59Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_AddCustomerTest_003@32709393]" name="tearDown" is-config="true" duration-ms="1025" started-at="2020-09-28T04:55:07Z" finished-at="2020-09-28T04:55:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
+      </class> <!-- com.inetbanking.testCases.TC_AddCustomerTest_003 -->
     </test> <!-- BankingApp Test Chrome -->
   </suite> <!-- InetBankingV1 Suite -->
 </testng-results>
